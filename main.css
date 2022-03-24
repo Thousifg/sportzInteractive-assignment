@@ -1,0 +1,11 @@
+body {
+  font-family: "Lato", sans-serif;
+}
+h2 {
+  text-align: center;
+}
+.data {
+  display: grid;
+  grid-template-columns: 35% 35% 35%;
+  grid-row-gap: 50px;
+}
